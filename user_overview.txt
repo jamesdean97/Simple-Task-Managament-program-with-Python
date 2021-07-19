@@ -1,0 +1,29 @@
+
+User overview report:
+
+Number of users registered on the task manager: 3
+Total tasks assinged: 6
+
+Username: admin
+Tasks assinged to user: 2
+
+Percentage of tasks assigned to this user: %33.33
+Percentage completed: %0.0
+Percentage incomplete: %100.0
+Percentage of user's taks overdue: %100.0
+
+Username: james
+Tasks assinged to user: 3
+
+Percentage of tasks assigned to this user: %50.0
+Percentage completed: %0.0
+Percentage incomplete: %100.0
+Percentage of user's taks overdue: %0.0
+
+Username: mike
+Tasks assinged to user: 1
+
+Percentage of tasks assigned to this user: %16.67
+Percentage completed: %0.0
+Percentage incomplete: %100.0
+Percentage of user's taks overdue: %0.0

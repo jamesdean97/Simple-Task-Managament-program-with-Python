@@ -1,0 +1,8 @@
+Task overview report:
+
+Total tasks: 6
+Completed tasks: 0
+Incomplete tasks: 6
+Overdue tasks: 2
+Percentage of tasks that are incomplete: %100.0
+Percentage of taksks that are overdue: %33.33
